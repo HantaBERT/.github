@@ -96,7 +96,7 @@ Pure static HTML/CSS/JS frontend with an interactive world map (D3 + TopoJSON). 
 </p>
 
 ### 📄 Paper
-*HantaBERT: Multi-Task Hantavirus Classification with DNABERT-2 Fine-Tuning*, an IEEE-style conference paper (English & Indonesian), written for the Domain-Specific Computing course at STEI ITB.
+*HantaBERT: Multi-Task Hantavirus Classification with DNABERT-2 Fine-Tuning*, an IEEE-style conference paper (English & Indonesian), written for the **IF3211 Domain-Specific Computation (Bioinformatics)** course at STEI ITB.
 
 - 💻 Source & PDFs: **[github.com/HantaBERT/paper](https://github.com/HantaBERT/paper)**
 
@@ -117,5 +117,7 @@ Pure static HTML/CSS/JS frontend with an interactive world map (D3 + TopoJSON). 
 ## 👥 Authors
 
 Muhammad Faiz Atharrahman · Muhammad Rafi Dhiyaulhaq · Lydia Gracia, School of Electrical Engineering and Informatics (STEI), Institut Teknologi Bandung.
+
+Developed as the final project for the **IF3211 Domain-Specific Computation (Bioinformatics)** course at STEI ITB.
 
 Released under the **Apache-2.0** license, consistent with the DNABERT-2 backbone. If you use HantaBERT, please also cite [DNABERT-2 (Zhou et al., 2023)](https://arxiv.org/abs/2306.15006).
