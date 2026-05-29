@@ -1,12 +1,3 @@
----
-title: HantaBERT
-emoji: 🧬
-colorFrom: green
-colorTo: yellow
-sdk: static
-pinned: true
----
-
 <p align="center">
   <img src="assets/HantaBERT_logo_wide_transparent.png" alt="HantaBERT" width="560">
 </p>
